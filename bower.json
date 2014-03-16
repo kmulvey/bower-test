@@ -1,0 +1,9 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "",
+    "jquery1": "git://github.com/jquery/jquery.git#1.11.0",
+    "jquery2": "git://github.com/jquery/jquery.git#2.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bower-test",
+  "description": "play with bower and grunt",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "",
+		"grunt-bower-task": "",
+  	"bower": ""
+	}
+}
