@@ -8,7 +8,7 @@ module.exports = function(grunt) {
 	    install: {
 	      options: {
 	        cleanBowerDir: true,
-					layout: 'byType',
+		  layout: 'byType',
 					targetDir: 'dist/',
 					verbose: true
 	      }
