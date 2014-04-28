@@ -5,6 +5,6 @@
   "devDependencies": {
     "grunt": "",
     "grunt-bower-task": "",
-  	"bower": ""
+    "bower": ""
 	}
 }
