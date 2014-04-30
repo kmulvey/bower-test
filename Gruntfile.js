@@ -9,7 +9,7 @@ module.exports = function(grunt) {
 	      options: {
 	        cleanBowerDir: true,
 		  layout: 'byType',
-					targetDir: 'dist/',
+		  targetDir: 'dist/',
 					verbose: true
 	      }
 	    }
